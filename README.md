@@ -6,8 +6,6 @@ You upload a video → FFmpeg encodes to 4 qualities automatically
                    → Custom HLS Player streams the video
 ```
 
----
-
 ### 🏗️ Architecture
 
 ```
