@@ -8,7 +8,6 @@ You upload a video → FFmpeg encodes to 4 qualities automatically
 
 ### 🏗️ Architecture
 
-```
 Admin adds movie → Content Service → MySQL
 
 Admin uploads video → Video Service → AWS S3
