@@ -8,7 +8,7 @@ You upload a video → FFmpeg encodes to 4 qualities automatically
 
 ---
 
-## 🏗️ Architecture
+### 🏗️ Architecture
 
 ```
 Admin adds movie → Content Service → MySQL
